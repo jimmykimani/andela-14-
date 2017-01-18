@@ -1,0 +1,7 @@
+"A simple command line application that consumes a Public API using a HTTP client library."
+
+Install project dependencies via `pip`. It's recommended that you do this in a `virtualenv`
+Install: pip install python-twitter
+
+
+for more Docs: https://python-twitter.readthedocs.io
